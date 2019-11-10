@@ -114,7 +114,7 @@ class _DetectPageState extends State<DetectPage> {
 
   void pay(){
     print("Pagamento");
-    InAppPayments.setSquareApplicationId('sq0idp-SpLz_FXnctv6740t-Tlgfw');
+    InAppPayments.setSquareApplicationId('YOUR APPLICATION ID SQUARE');
     InAppPayments.startCardEntryFlow(
       onCardNonceRequestSuccess: _cardNonceRequestSuccess,
       onCardEntryCancel: _cardEntryCancel,

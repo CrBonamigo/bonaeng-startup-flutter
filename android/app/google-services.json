@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "168364173656",
+    "firebase_url": "https://startup-255001.firebaseio.com",
+    "project_id": "startup-255001",
+    "storage_bucket": "startup-255001.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:168364173656:android:28720ea402a9a743b9dd2d",
+        "android_client_info": {
+          "package_name": "com.bonaeng.startup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "168364173656-v713enrguno3qj3thjsj69sei02kbgel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjE8LGGV3oS5JiIORVZBuXJJGngTkvv8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "168364173656-v713enrguno3qj3thjsj69sei02kbgel.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "168364173656-4c1v297hp7pi0tur03jorbmngu6r241u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.bonaeng.startup",
+                "app_store_id": "6688"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

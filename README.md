@@ -1,8 +1,8 @@
 # bonaeng-startup-flutter
 
 ## App for startup Bonaeng
-Web App link - http://startup-bonaeng.herokuapp.com/
-Git - https://github.com/CrBonamigo/ai-startup
+* Web App link - http://startup-bonaeng.herokuapp.com/
+* Git - https://github.com/CrBonamigo/ai-startup
 
 ## For test in app
 
